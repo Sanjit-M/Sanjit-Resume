@@ -2,4 +2,4 @@
 
 Hosted Resume on Github pages.
 
-https://sanjit-m.github.io/Sanjit-Resume/resume.pdf
+[Download my resume](https://sanjit-m.github.io/Sanjit-Resume/Sanjit_Resume.pdf?v=2)
